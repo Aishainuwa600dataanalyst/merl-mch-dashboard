@@ -1,0 +1,13 @@
+facility_code,facility_name,lga,facility_type,catchment_population,performance_profile,expected_pregnancies_year,expected_deliveries_year,expected_infants_year,expected_pregnancies_month,expected_deliveries_month,expected_infants_month
+PHC-001,Gwagwalada PHC,Gwagwalada,Primary Health Centre,9800,strong,392,382,353,32.7,31.8,29.4
+PHC-002,Dobi PHC,Gwagwalada,Primary Health Centre,4200,dropout_risk,168,164,151,14.0,13.7,12.6
+PHC-003,Zuba PHC,Gwagwalada,Primary Health Centre,6500,average,260,254,234,21.7,21.2,19.5
+GH-004,Gwagwalada General Hosp,Gwagwalada,General Hospital,24000,strong,960,936,864,80.0,78.0,72.0
+PHC-005,Kuje PHC,Kuje,Primary Health Centre,5100,weak,204,199,184,17.0,16.6,15.3
+PHC-006,Gaube PHC,Kuje,Primary Health Centre,3100,dropout_risk,124,121,112,10.3,10.1,9.3
+CH-007,Kuje Cottage Hospital,Kuje,Cottage Hospital,13500,average,540,526,486,45.0,43.8,40.5
+PHC-008,Rubochi PHC,Kuje,Primary Health Centre,2900,average,116,113,104,9.7,9.4,8.7
+PHC-009,Bwari PHC,Bwari,Primary Health Centre,7400,strong,296,289,266,24.7,24.1,22.2
+PHC-010,Ushafa PHC,Bwari,Primary Health Centre,3600,weak,144,140,130,12.0,11.7,10.8
+CH-011,Kubwa Cottage Hospital,Bwari,Cottage Hospital,18700,average,748,729,673,62.3,60.8,56.1
+PHC-012,Igu PHC,Bwari,Primary Health Centre,2400,dropout_risk,96,94,86,8.0,7.8,7.2

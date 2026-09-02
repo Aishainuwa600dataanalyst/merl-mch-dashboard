@@ -1,0 +1,33 @@
+issue_type,facility_code,facility_name,lga,report_month,detail,action
+Impossible value (ANC4 > ANC1),PHC-003,Zuba PHC,Gwagwalada,2026-03,ANC4 = 28.0 but ANC1 = 22.0,Send back for correction; a 4th visit cannot exceed a 1st visit
+Late submission,CH-011,Kubwa Cottage Hospital,Bwari,2024-09,Submitted on day 12 of the next month (rule is day 10),Note in the monthly data review meeting
+Late submission,PHC-005,Kuje PHC,Kuje,2024-07,Submitted on day 12 of the next month (rule is day 10),Note in the monthly data review meeting
+Late submission,PHC-005,Kuje PHC,Kuje,2024-08,Submitted on day 13 of the next month (rule is day 10),Note in the monthly data review meeting
+Late submission,PHC-005,Kuje PHC,Kuje,2024-09,Submitted on day 16 of the next month (rule is day 10),Note in the monthly data review meeting
+Late submission,PHC-005,Kuje PHC,Kuje,2024-12,Submitted on day 12 of the next month (rule is day 10),Note in the monthly data review meeting
+Late submission,PHC-005,Kuje PHC,Kuje,2025-01,Submitted on day 16 of the next month (rule is day 10),Note in the monthly data review meeting
+Late submission,PHC-005,Kuje PHC,Kuje,2025-02,Submitted on day 14 of the next month (rule is day 10),Note in the monthly data review meeting
+Late submission,PHC-005,Kuje PHC,Kuje,2025-03,Submitted on day 15 of the next month (rule is day 10),Note in the monthly data review meeting
+Late submission,PHC-005,Kuje PHC,Kuje,2025-07,Submitted on day 11 of the next month (rule is day 10),Note in the monthly data review meeting
+Late submission,PHC-005,Kuje PHC,Kuje,2025-09,Submitted on day 11 of the next month (rule is day 10),Note in the monthly data review meeting
+Late submission,PHC-005,Kuje PHC,Kuje,2025-12,Submitted on day 11 of the next month (rule is day 10),Note in the monthly data review meeting
+Late submission,PHC-005,Kuje PHC,Kuje,2026-04,Submitted on day 11 of the next month (rule is day 10),Note in the monthly data review meeting
+Late submission,PHC-005,Kuje PHC,Kuje,2026-05,Submitted on day 11 of the next month (rule is day 10),Note in the monthly data review meeting
+Late submission,PHC-005,Kuje PHC,Kuje,2026-06,Submitted on day 13 of the next month (rule is day 10),Note in the monthly data review meeting
+Late submission,PHC-009,Bwari PHC,Bwari,2024-10,Submitted on day 11 of the next month (rule is day 10),Note in the monthly data review meeting
+Late submission,PHC-010,Ushafa PHC,Bwari,2024-09,Submitted on day 11 of the next month (rule is day 10),Note in the monthly data review meeting
+Late submission,PHC-010,Ushafa PHC,Bwari,2024-11,Submitted on day 13 of the next month (rule is day 10),Note in the monthly data review meeting
+Late submission,PHC-010,Ushafa PHC,Bwari,2024-12,Submitted on day 14 of the next month (rule is day 10),Note in the monthly data review meeting
+Late submission,PHC-010,Ushafa PHC,Bwari,2025-02,Submitted on day 13 of the next month (rule is day 10),Note in the monthly data review meeting
+Late submission,PHC-010,Ushafa PHC,Bwari,2025-03,Submitted on day 13 of the next month (rule is day 10),Note in the monthly data review meeting
+Late submission,PHC-010,Ushafa PHC,Bwari,2025-05,Submitted on day 15 of the next month (rule is day 10),Note in the monthly data review meeting
+Late submission,PHC-010,Ushafa PHC,Bwari,2025-06,Submitted on day 11 of the next month (rule is day 10),Note in the monthly data review meeting
+Late submission,PHC-010,Ushafa PHC,Bwari,2025-07,Submitted on day 11 of the next month (rule is day 10),Note in the monthly data review meeting
+Late submission,PHC-010,Ushafa PHC,Bwari,2025-10,Submitted on day 12 of the next month (rule is day 10),Note in the monthly data review meeting
+Late submission,PHC-010,Ushafa PHC,Bwari,2025-11,Submitted on day 16 of the next month (rule is day 10),Note in the monthly data review meeting
+Late submission,PHC-010,Ushafa PHC,Bwari,2025-12,Submitted on day 13 of the next month (rule is day 10),Note in the monthly data review meeting
+Late submission,PHC-010,Ushafa PHC,Bwari,2026-02,Submitted on day 11 of the next month (rule is day 10),Note in the monthly data review meeting
+Late submission,PHC-010,Ushafa PHC,Bwari,2026-03,Submitted on day 17 of the next month (rule is day 10),Note in the monthly data review meeting
+Late submission,PHC-010,Ushafa PHC,Bwari,2026-05,Submitted on day 12 of the next month (rule is day 10),Note in the monthly data review meeting
+Late submission,PHC-010,Ushafa PHC,Bwari,2026-06,Submitted on day 13 of the next month (rule is day 10),Note in the monthly data review meeting
+Suspicious spike,PHC-008,Rubochi PHC,Kuje,2025-11,"ANC1 = 41.0, more than 3x this facility's usual level",Check for double entry or an outreach campaign counted twice

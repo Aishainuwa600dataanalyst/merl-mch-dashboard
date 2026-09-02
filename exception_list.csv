@@ -1,0 +1,50 @@
+facility_code,facility_name,lga,indicator_code,indicator_name,target_value,months_missed_in_a_row,streak_start_month,streak_end_month,worst_value_in_streak,total_months_missed,priority
+PHC-002,Dobi PHC,Gwagwalada,ANC4,ANC4 coverage,70,24,2024-07,2026-06,28.6,24,High
+PHC-006,Gaube PHC,Kuje,ANC4,ANC4 coverage,70,24,2024-07,2026-06,29.1,24,High
+PHC-012,Igu PHC,Bwari,ANC4,ANC4 coverage,70,24,2024-07,2026-06,25.0,24,High
+PHC-002,Dobi PHC,Gwagwalada,DROP,Immunisation dropout rate,10,24,2024-07,2026-06,46.2,24,High
+PHC-006,Gaube PHC,Kuje,DROP,Immunisation dropout rate,10,24,2024-07,2026-06,50.0,24,High
+PHC-012,Igu PHC,Bwari,DROP,Immunisation dropout rate,10,24,2024-07,2026-06,42.9,24,High
+PHC-002,Dobi PHC,Gwagwalada,IMM,Immunisation completion,80,24,2024-07,2026-06,47.6,24,High
+PHC-006,Gaube PHC,Kuje,IMM,Immunisation completion,80,24,2024-07,2026-06,43.0,24,High
+PHC-002,Dobi PHC,Gwagwalada,SBA,Skilled birth attendance,85,24,2024-07,2026-06,60.0,24,High
+PHC-005,Kuje PHC,Kuje,ANC4,ANC4 coverage,70,23,2024-07,2026-06,29.4,23,High
+PHC-010,Ushafa PHC,Bwari,ANC4,ANC4 coverage,70,23,2024-07,2026-06,25.0,23,High
+PHC-005,Kuje PHC,Kuje,DROP,Immunisation dropout rate,10,23,2024-07,2026-06,38.5,23,High
+PHC-010,Ushafa PHC,Bwari,DROP,Immunisation dropout rate,10,23,2024-07,2026-06,33.3,23,High
+PHC-010,Ushafa PHC,Bwari,FDR,Facility delivery rate,65,23,2024-07,2026-06,25.6,23,High
+PHC-005,Kuje PHC,Kuje,IMM,Immunisation completion,80,23,2024-07,2026-06,45.8,23,High
+PHC-010,Ushafa PHC,Bwari,IMM,Immunisation completion,80,23,2024-07,2026-06,55.6,23,High
+PHC-005,Kuje PHC,Kuje,SBA,Skilled birth attendance,85,23,2024-07,2026-06,43.8,23,High
+PHC-006,Gaube PHC,Kuje,SBA,Skilled birth attendance,85,23,2024-08,2026-06,55.6,23,High
+PHC-010,Ushafa PHC,Bwari,SBA,Skilled birth attendance,85,23,2024-07,2026-06,45.5,23,High
+PHC-005,Kuje PHC,Kuje,FDR,Facility delivery rate,65,18,2024-12,2026-06,30.1,22,High
+PHC-012,Igu PHC,Bwari,IMM,Immunisation completion,80,14,2025-05,2026-06,41.7,22,High
+PHC-012,Igu PHC,Bwari,FDR,Facility delivery rate,65,11,2024-12,2025-10,51.3,21,High
+PHC-012,Igu PHC,Bwari,SBA,Skilled birth attendance,85,11,2024-08,2025-06,62.5,21,High
+CH-011,Kubwa Cottage Hospital,Bwari,ANC4,ANC4 coverage,70,9,2025-03,2025-11,53.0,18,High
+PHC-003,Zuba PHC,Gwagwalada,ANC4,ANC4 coverage,70,7,2025-06,2025-12,55.3,17,High
+PHC-008,Rubochi PHC,Kuje,ANC4,ANC4 coverage,70,7,2024-07,2025-01,51.5,15,High
+PHC-002,Dobi PHC,Gwagwalada,FDR,Facility delivery rate,65,6,2025-04,2025-09,51.1,19,High
+PHC-006,Gaube PHC,Kuje,FDR,Facility delivery rate,65,5,2025-02,2025-06,49.5,18,Medium
+PHC-003,Zuba PHC,Gwagwalada,SBA,Skilled birth attendance,85,5,2024-07,2024-11,78.6,15,Medium
+CH-011,Kubwa Cottage Hospital,Bwari,IMM,Immunisation completion,80,5,2025-05,2025-09,60.6,10,Medium
+CH-011,Kubwa Cottage Hospital,Bwari,SBA,Skilled birth attendance,85,4,2024-10,2025-01,79.3,16,Medium
+PHC-008,Rubochi PHC,Kuje,FDR,Facility delivery rate,65,4,2025-07,2025-10,53.2,14,Medium
+PHC-003,Zuba PHC,Gwagwalada,FDR,Facility delivery rate,65,4,2025-06,2025-09,51.9,9,Medium
+GH-004,Gwagwalada General Hosp,Gwagwalada,IMM,Immunisation completion,80,4,2024-07,2024-10,65.3,9,Medium
+CH-007,Kuje Cottage Hospital,Kuje,IMM,Immunisation completion,80,4,2025-05,2025-08,71.6,8,Medium
+PHC-001,Gwagwalada PHC,Gwagwalada,IMM,Immunisation completion,80,4,2025-07,2025-10,64.6,8,Medium
+PHC-008,Rubochi PHC,Kuje,DROP,Immunisation dropout rate,10,3,2024-08,2024-10,14.3,14,Medium
+CH-007,Kuje Cottage Hospital,Kuje,ANC4,ANC4 coverage,70,3,2024-11,2025-01,62.2,13,Medium
+CH-011,Kubwa Cottage Hospital,Bwari,DROP,Immunisation dropout rate,10,3,2025-11,2026-01,12.0,12,Medium
+CH-011,Kubwa Cottage Hospital,Bwari,FDR,Facility delivery rate,65,3,2025-05,2025-07,51.0,8,Medium
+PHC-003,Zuba PHC,Gwagwalada,IMM,Immunisation completion,80,3,2024-08,2024-10,66.7,7,Medium
+PHC-008,Rubochi PHC,Kuje,IMM,Immunisation completion,80,3,2025-06,2025-08,57.5,7,Medium
+PHC-009,Bwari PHC,Bwari,IMM,Immunisation completion,80,2,2026-03,2026-04,76.6,9,Watch
+CH-007,Kuje Cottage Hospital,Kuje,SBA,Skilled birth attendance,85,2,2025-09,2025-10,81.8,9,Watch
+CH-007,Kuje Cottage Hospital,Kuje,DROP,Immunisation dropout rate,10,2,2025-02,2025-03,15.4,8,Watch
+CH-007,Kuje Cottage Hospital,Kuje,FDR,Facility delivery rate,65,2,2025-07,2025-08,52.5,8,Watch
+PHC-003,Zuba PHC,Gwagwalada,DROP,Immunisation dropout rate,10,2,2025-01,2025-02,11.1,7,Watch
+PHC-008,Rubochi PHC,Kuje,SBA,Skilled birth attendance,85,2,2024-12,2025-01,77.8,5,Watch
+PHC-001,Gwagwalada PHC,Gwagwalada,SBA,Skilled birth attendance,85,2,2025-01,2025-02,79.4,3,Watch
