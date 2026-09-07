@@ -2,7 +2,7 @@
 
 **A facility-level monitoring dashboard that turns routine monthly health reports into a ranked supervision visit list.**
 
-Built with PostgreSQL, Tableau and Excel by **Aisha O. Inuwa**, Healthcare & Program Data Analyst, Abuja, Nigeria.
+Built with PostgreSQL, Tableau and Excel by **Aisha O. Inuwa**, Healthcare Data Analyst, Abuja, Nigeria.
 
 > **Please read this first.** Every number in this project is **simulated**. The dataset was
 > constructed to mirror the structure of routine monthly reporting for 12 health facilities in
