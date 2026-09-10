@@ -119,7 +119,6 @@ sql/                       PostgreSQL - run in order 01 -> 04
 
 dashboard/                 the 4 Tableau dashboard sheets exported as PNG
 docs/
-  TABLEAU_GUIDE.md         build the same 4 sheets in Tableau, click by click
 ```
 
 ### How to run it yourself
@@ -134,11 +133,6 @@ You need PostgreSQL (or DBeaver connected to any PostgreSQL database).
 3. Run `sql/03_league_table_and_exceptions.sql` for the facility league table and the exception
    list with streak lengths.
 4. Run `sql/04_data_quality_checks.sql` for the five data quality checks.
-5. Connect Tableau (or Excel) to the resulting views and follow `docs/TABLEAU_GUIDE.md` to
-   rebuild the four dashboard sheets.
-
-The CSV files in `data/` are already the finished output, so you can also connect Tableau or
-Excel directly to them without installing anything.
 
 ### How the simulated dataset was built
 
