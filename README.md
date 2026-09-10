@@ -215,34 +215,34 @@ view excludes those rows from the denominator rather than treating them as zeros
 ## 7. The four dashboard sheets
 
 ### 1. Programme Overview
-![Programme Overview](dashboard/01_programme_overview.png)
+![Programme Overview](01_programme_overview.png)
 
 Five KPI cards with a target and a direction-aware trend arrow (for dropout, falling is improving,
 and the card says so in words), the 24-month trend of each indicator against its target line, and
 coverage by Area Council. This is the "where are we" page.
 
 ### 2. Facility League Table
-![Facility League Table](dashboard/02_facility_league_table.png)
+![Facility League Table](02_facility_league_table.png)
 
 Every facility × every indicator, colour-coded green / amber / red, ranked by how many of the five
 targets it meets. This is the page that ends the "is it really that bad in Dobi?" argument, because
 you can point at the row.
 
 ### 3. Where Are We Losing Mothers and Babies?
-![Dropout Story](dashboard/03_dropout_story.png)
+![Dropout Story](03_dropout_story.png)
 
 The funnel from ANC1 through ANC4, facility delivery, immunisation started and immunisation
 completed; dropout by facility; and coverage plotted against dropout, where the two-group pattern
 becomes impossible to miss. This is the page that changes the decision.
 
 ### 4. Exception Report & Data Quality
-![Exceptions and Quality](dashboard/04_exceptions_and_quality.png)
+![Exceptions and Quality](04_exceptions_and_quality.png)
 
 The ranked visit list with streak lengths, how many indicators each site is failing, the quality
 issues found, and reporting timeliness. This is the page you take into the meeting.
 
 The order is deliberate: **where are we → who is behind → why → what to do about it.** A dashboard
-should walk the reader to a decision, not dump 20 charts on one page and leave them to work it out.
+should walk the reader to a decision.
 
 ---
 
